@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+yfinance
+pyyaml
+requests
+meteostat
+streamlit
+matplotlib
+pytz

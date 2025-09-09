@@ -1,0 +1,12 @@
+location:
+  name: "Chicago, IL"
+  latitude: 41.8781
+  longitude: -87.6298
+  timezone: "America/Chicago"
+markets:
+  tickers: ["SPY", "AAPL", "NVDA", "QQQ"]
+  start_date: "2018-01-01"
+sports:
+  league: "nba"
+  k_factor: 20
+  home_field_adv: 65
